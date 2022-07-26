@@ -18,7 +18,7 @@ class Shirt1 implements Shirt{
 
 class Shirt2 implements Shirt{
     public function color(){
-        return "The shirt2 color is blue";
+        return "The shirt2 color is bluee";
     }
 }
 

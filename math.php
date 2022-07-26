@@ -21,5 +21,4 @@ echo (round(0.60))."<br>";
 echo (rand())."<br>";
 echo (rand(30, 70))."<br>";
 ?>
-Footer
 

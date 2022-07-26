@@ -17,7 +17,7 @@ abstract class Shirt{
 
 class Shirt1 extends Shirt{
     public function color(){
-        return "The shirt1 color is $this->color";
+        return "The shirt1 colour is $this->color";
     }
 }
 

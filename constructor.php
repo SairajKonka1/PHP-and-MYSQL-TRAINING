@@ -8,7 +8,7 @@ class Student{
       }
  }
  
- $student1 = new Student("Ramit");
+ $student1 = new Student("Ramiit");
  echo $student1->student_name;
       
       

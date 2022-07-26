@@ -28,7 +28,7 @@ do{
  
  //foreach loop
  
- $arr = array(6, 76, 34, 98,67);
+ $arr = array(16, 76, 34, 98,67);
  echo "<br>";
  foreach($arr as $value){
  echo $value."<br>";

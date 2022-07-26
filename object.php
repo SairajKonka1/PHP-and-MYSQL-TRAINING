@@ -16,7 +16,7 @@ function setPrice($par){
    }
    
 function getPrice(){
-echo "Price of the Books is " .$this->price. "<br>";
+echo "Price of the Book is " .$this->price. "<br>";
   }
   
 function getTitle(){

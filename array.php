@@ -18,7 +18,7 @@ foreach($fruits as $value){
        echo "<br>";
        foreach($student as $key => $value){
        
-       echo "$key is $value years old <br>";
+       echo "$key is $value year old <br>";
        
        }
       // Multidimentional  array

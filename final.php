@@ -54,7 +54,7 @@ class details extends Person{
         $this->age = $age;
     }
    function detail(){
-       echo "function called from the child class";
+       echo "function called from the childs class";
        $this->det();
     }
 }

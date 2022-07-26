@@ -28,7 +28,7 @@
 			}
 		}
 		
-		$pers = new details("Pers","25");
+		$pers = new details("Per","25");
 		
 		//$pers->msg();
 		
